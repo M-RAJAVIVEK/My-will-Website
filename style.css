@@ -1,0 +1,15 @@
+.king
+{
+    background-color: palevioletred;
+}
+.product
+{
+    display: flex;
+    font-size: 40px;
+    letter-spacing: 10px;
+}
+
+.card-img-top {
+    width: 1px;
+}
+  
